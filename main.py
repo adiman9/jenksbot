@@ -39,7 +39,7 @@ except Exception:
     sys.exit()
 
 tweet_options = [
-    "Hey, @tallguyjenks I was wonder... How tall are you?",
+    "Hey, @tallguyjenks I was wondering... How tall are you?",
     "How tall is @tallguyjenks",
     "I wonder how tall @tallguyjenks is really?",
     "How tall are you? @tallguyjenks",
